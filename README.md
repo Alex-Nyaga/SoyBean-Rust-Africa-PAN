@@ -6,7 +6,7 @@ This repo contains the raw Pan-African Soybean Rust trial data, the R script use
 Files
 ## PAN_SoyBean_Rust_New.csv
 
-The raw trial dataset as downloaded from the PAN (Pan-African Network) / Soybean Innovation Lab Figshare repository. This is the untouched source file — 42 columns, one row per plot/replicate.
+The raw trial dataset as downloaded from the PAN (Pan-African Network) / Soybean Innovation Lab Figshare repository. This is the untouched source file.
 
 ## PAN_SoyBean_Rust_Old.csv
 
@@ -41,4 +41,4 @@ Reference table (macro-environment classification for soybean across Africa) use
 
 ## Map 
 
-The map 
+The Soybean Rust Map (New).png plots the sample points for locations after analysis. Plots the file Soybean_Rust_Database.csv.
